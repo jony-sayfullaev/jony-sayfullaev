@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hi, I'm Jonibek, a Backend Developer 🚀 from Uzbekistan, currently, I'm a Student 🙍🏽‍♂, Freelancer 👨🏽‍💻, Beside's programming, I enjoy podcasts and traveling.
+Hi, I'm Jonibek, a Python Backend Developer 🚀 from Uzbekistan, currently, I'm a Student 🙍🏽‍♂, Freelancer 👨🏽‍💻, Beside's programming, I enjoy podcasts and traveling.
   
 **Talking about Personal Stuffs:**
 
@@ -18,14 +18,12 @@ Hi, I'm Jonibek, a Backend Developer 🚀 from Uzbekistan, currently, I'm a Stud
 - 🌱 I’m currently learning DRF ,Reactjs and Docker; 
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Vengixlabs:My future Project which helps in R&D for companies. 
 - 📫 How to reach me: jonysayfullaev2000@gmail.com;
 - 📝[Resume]()
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Freact-icons&psig=AOvVaw3G5LeeBiFhpcb5ygOXuiPq&ust=1676642291040000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjNj7OZmv0CFQAAAAAdAAAAABAE"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></code>
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/django-12-1175186.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
