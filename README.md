@@ -1,6 +1,7 @@
 ### Hey 👋🏽, I'm [Jonibek!](https://jonibeksayfullaev.github.io) 
 
-<a href=”https://www.linkedin.com/in/jonibek-sayfullaev-862973217/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+
+<a href="https://www.linkedin.com/in/jonibek-sayfullaev-862973217/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/s_jony1/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 
 <br />
